@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.exe
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.deps.json
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.runtimeconfig.json
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.dll
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.pdb
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.AssemblyInfo.cs
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.dll
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\refint\DictionaryDemo.dll
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.pdb
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.genruntimeconfig.cache
+D:\practiceDotNet\Day 13\DictionaryDemo\DictionaryDemo\obj\Debug\net8.0\ref\DictionaryDemo.dll

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|d:\\practicedotnet\\day 11\\homedevicecontrol\\homedevicecontrol\\iterestrial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|solutionrelative:homedevicecontrol\\iterestrial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|d:\\practicedotnet\\day 11\\homedevicecontrol\\homedevicecontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|solutionrelative:homedevicecontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|d:\\practicedotnet\\day 11\\homedevicecontrol\\homedevicecontrol\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|solutionrelative:homedevicecontrol\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|d:\\practicedotnet\\day 11\\homedevicecontrol\\homedevicecontrol\\istatusreportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|solutionrelative:homedevicecontrol\\istatusreportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|d:\\practicedotnet\\day 11\\homedevicecontrol\\homedevicecontrol\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|solutionrelative:homedevicecontrol\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|d:\\practicedotnet\\day 11\\homedevicecontrol\\homedevicecontrol\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD63317-7F03-48E9-92E1-30B1D590EF13}|HomeDeviceControl\\HomeDeviceControl.csproj|solutionrelative:homedevicecontrol\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Iterestrial.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\Iterestrial.cs",
+              "RelativeDocumentMoniker": "HomeDeviceControl\\Iterestrial.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\Iterestrial.cs",
+              "RelativeToolTip": "HomeDeviceControl\\Iterestrial.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:48:08.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Light.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\Light.cs",
+              "RelativeDocumentMoniker": "HomeDeviceControl\\Light.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\Light.cs",
+              "RelativeToolTip": "HomeDeviceControl\\Light.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:16:03.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fan.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\Fan.cs",
+              "RelativeDocumentMoniker": "HomeDeviceControl\\Fan.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\Fan.cs",
+              "RelativeToolTip": "HomeDeviceControl\\Fan.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:15:52.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStatusReportable.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\IStatusReportable.cs",
+              "RelativeDocumentMoniker": "HomeDeviceControl\\IStatusReportable.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\IStatusReportable.cs",
+              "RelativeToolTip": "HomeDeviceControl\\IStatusReportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:15:38.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISwitchable.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\ISwitchable.cs",
+              "RelativeDocumentMoniker": "HomeDeviceControl\\ISwitchable.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\ISwitchable.cs",
+              "RelativeToolTip": "HomeDeviceControl\\ISwitchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:15:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\Program.cs",
+              "RelativeDocumentMoniker": "HomeDeviceControl\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 11\\HomeDeviceControl\\HomeDeviceControl\\Program.cs",
+              "RelativeToolTip": "HomeDeviceControl\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:14:03.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

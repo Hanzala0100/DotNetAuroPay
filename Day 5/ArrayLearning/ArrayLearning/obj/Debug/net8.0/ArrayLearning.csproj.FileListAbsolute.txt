@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.exe
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.deps.json
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.runtimeconfig.json
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.dll
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.pdb
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.AssemblyInfo.cs
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.dll
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\refint\ArrayLearning.dll
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.pdb
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.genruntimeconfig.cache
+D:\practiceDotNet\Day 5\ArrayLearning\ArrayLearning\obj\Debug\net8.0\ref\ArrayLearning.dll

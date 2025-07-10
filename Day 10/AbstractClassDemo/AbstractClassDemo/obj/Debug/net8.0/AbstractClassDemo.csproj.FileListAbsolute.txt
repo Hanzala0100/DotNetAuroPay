@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.exe
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.deps.json
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.runtimeconfig.json
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.dll
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.pdb
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfo.cs
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.dll
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\refint\AbstractClassDemo.dll
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.pdb
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.genruntimeconfig.cache
+D:\practiceDotNet\Day 10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\ref\AbstractClassDemo.dll

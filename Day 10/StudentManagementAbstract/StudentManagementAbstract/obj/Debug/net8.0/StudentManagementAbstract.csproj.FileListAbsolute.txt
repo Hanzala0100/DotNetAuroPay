@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\bin\Debug\net8.0\StudentManagementAbstract.exe
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\bin\Debug\net8.0\StudentManagementAbstract.deps.json
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\bin\Debug\net8.0\StudentManagementAbstract.runtimeconfig.json
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\bin\Debug\net8.0\StudentManagementAbstract.dll
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\bin\Debug\net8.0\StudentManagementAbstract.pdb
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\StudentManagementAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\StudentManagementAbstract.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\StudentManagementAbstract.AssemblyInfo.cs
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\StudentManagementAbstract.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\StudentManagementAbstract.dll
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\refint\StudentManagementAbstract.dll
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\StudentManagementAbstract.pdb
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\StudentManagementAbstract.genruntimeconfig.cache
+D:\practiceDotNet\Day 10\StudentManagementAbstract\StudentManagementAbstract\obj\Debug\net8.0\ref\StudentManagementAbstract.dll

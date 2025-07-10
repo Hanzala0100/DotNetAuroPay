@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D86F3F-060D-4CD4-9CF4-60ED68D3A859}|InheritanceDemo#\\InheritanceDemo#.csproj|d:\\practicedotnet\\day 9\\inheritancedemo#\\inheritancedemo#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D86F3F-060D-4CD4-9CF4-60ED68D3A859}|InheritanceDemo#\\InheritanceDemo#.csproj|solutionrelative:inheritancedemo#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D86F3F-060D-4CD4-9CF4-60ED68D3A859}|InheritanceDemo#\\InheritanceDemo#.csproj|d:\\practicedotnet\\day 9\\inheritancedemo#\\inheritancedemo#\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D86F3F-060D-4CD4-9CF4-60ED68D3A859}|InheritanceDemo#\\InheritanceDemo#.csproj|solutionrelative:inheritancedemo#\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D86F3F-060D-4CD4-9CF4-60ED68D3A859}|InheritanceDemo#\\InheritanceDemo#.csproj|d:\\practicedotnet\\day 9\\inheritancedemo#\\inheritancedemo#\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D86F3F-060D-4CD4-9CF4-60ED68D3A859}|InheritanceDemo#\\InheritanceDemo#.csproj|solutionrelative:inheritancedemo#\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D86F3F-060D-4CD4-9CF4-60ED68D3A859}|InheritanceDemo#\\InheritanceDemo#.csproj|d:\\practicedotnet\\day 9\\inheritancedemo#\\inheritancedemo#\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D86F3F-060D-4CD4-9CF4-60ED68D3A859}|InheritanceDemo#\\InheritanceDemo#.csproj|solutionrelative:inheritancedemo#\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\InheritanceDemo#\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo#\\ContractEmployee.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\InheritanceDemo#\\ContractEmployee.cs",
+              "RelativeToolTip": "InheritanceDemo#\\ContractEmployee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:59:21.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermanentEmployee.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\InheritanceDemo#\\PermanentEmployee.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo#\\PermanentEmployee.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\InheritanceDemo#\\PermanentEmployee.cs",
+              "RelativeToolTip": "InheritanceDemo#\\PermanentEmployee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:54:21.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\InheritanceDemo#\\Employee.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo#\\Employee.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\InheritanceDemo#\\Employee.cs",
+              "RelativeToolTip": "InheritanceDemo#\\Employee.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:52:10.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\InheritanceDemo#\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo#\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 9\\InheritanceDemo#\\InheritanceDemo#\\Program.cs",
+              "RelativeToolTip": "InheritanceDemo#\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:51:44.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

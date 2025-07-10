@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.exe
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.deps.json
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.runtimeconfig.json
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.dll
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\bin\Debug\net8.0\PigDiceGame.pdb
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.AssemblyInfo.cs
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.dll
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\refint\PigDiceGame.dll
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.pdb
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\PigDiceGame.genruntimeconfig.cache
+D:\practiceDotNet\Day 4\PigDiceGame\PigDiceGame\obj\Debug\net8.0\ref\PigDiceGame.dll

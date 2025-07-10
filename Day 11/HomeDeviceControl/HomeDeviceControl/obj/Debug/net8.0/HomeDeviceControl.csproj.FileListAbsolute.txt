@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\bin\Debug\net8.0\HomeDeviceControl.exe
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\bin\Debug\net8.0\HomeDeviceControl.deps.json
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\bin\Debug\net8.0\HomeDeviceControl.runtimeconfig.json
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\bin\Debug\net8.0\HomeDeviceControl.dll
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\bin\Debug\net8.0\HomeDeviceControl.pdb
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\HomeDeviceControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\HomeDeviceControl.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\HomeDeviceControl.AssemblyInfo.cs
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\HomeDeviceControl.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\HomeDeviceControl.dll
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\refint\HomeDeviceControl.dll
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\HomeDeviceControl.pdb
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\HomeDeviceControl.genruntimeconfig.cache
+D:\practiceDotNet\Day 11\HomeDeviceControl\HomeDeviceControl\obj\Debug\net8.0\ref\HomeDeviceControl.dll

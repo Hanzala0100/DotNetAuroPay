@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 4\\InstanceLocalStatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{110E45D1-1219-4A43-8DD1-37C891335E7E}|InstanceLocalStatic\\InstanceLocalStatic.csproj|d:\\practicedotnet\\day 4\\instancelocalstatic\\instancelocalstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110E45D1-1219-4A43-8DD1-37C891335E7E}|InstanceLocalStatic\\InstanceLocalStatic.csproj|solutionrelative:instancelocalstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 4\\InstanceLocalStatic\\InstanceLocalStatic\\Program.cs",
+              "RelativeDocumentMoniker": "InstanceLocalStatic\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 4\\InstanceLocalStatic\\InstanceLocalStatic\\Program.cs",
+              "RelativeToolTip": "InstanceLocalStatic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:00:21.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

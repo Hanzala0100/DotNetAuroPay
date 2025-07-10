@@ -1,0 +1,11 @@
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\bin\Debug\net8.0\MyClassLibrary.deps.json
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\bin\Debug\net8.0\MyClassLibrary.dll
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\bin\Debug\net8.0\MyClassLibrary.pdb
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\obj\Debug\net8.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\obj\Debug\net8.0\MyClassLibrary.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\obj\Debug\net8.0\MyClassLibrary.AssemblyInfo.cs
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\obj\Debug\net8.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\obj\Debug\net8.0\MyClassLibrary.dll
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\obj\Debug\net8.0\refint\MyClassLibrary.dll
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\obj\Debug\net8.0\MyClassLibrary.pdb
+D:\practiceDotNet\Day 6\ClassesAdvanced\MyClassLibrary\obj\Debug\net8.0\ref\MyClassLibrary.dll

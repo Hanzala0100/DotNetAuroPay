@@ -1,0 +1,28 @@
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.exe
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.deps.json
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.runtimeconfig.json
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.dll
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.pdb
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.AssemblyInfo.cs
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.dll
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\refint\FileIODemo.dll
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.pdb
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.genruntimeconfig.cache
+D:\practiceDotNet\Day 13\FileIODemo\FileIODemo\obj\Debug\net8.0\ref\FileIODemo.dll
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.exe
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.deps.json
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.runtimeconfig.json
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.dll
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\bin\Debug\net8.0\FileIODemo.pdb
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.AssemblyInfo.cs
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.dll
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\refint\FileIODemo.dll
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.pdb
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\FileIODemo.genruntimeconfig.cache
+D:\practiceDotNet\Day13\FileIODemo\FileIODemo\obj\Debug\net8.0\ref\FileIODemo.dll

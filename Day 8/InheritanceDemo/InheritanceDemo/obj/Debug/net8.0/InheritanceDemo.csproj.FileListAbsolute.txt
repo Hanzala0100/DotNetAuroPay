@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+D:\practiceDotNet\Day 8\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

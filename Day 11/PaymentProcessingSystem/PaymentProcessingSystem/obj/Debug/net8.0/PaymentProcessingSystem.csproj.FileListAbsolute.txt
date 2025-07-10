@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.exe
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.deps.json
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.runtimeconfig.json
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.dll
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.pdb
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.AssemblyInfo.cs
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.dll
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\refint\PaymentProcessingSystem.dll
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.pdb
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.genruntimeconfig.cache
+D:\practiceDotNet\Day 11\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\ref\PaymentProcessingSystem.dll

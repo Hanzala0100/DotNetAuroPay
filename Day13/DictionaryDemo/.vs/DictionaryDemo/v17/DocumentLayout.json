@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 13\\DictionaryDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{419BD872-9E21-4C70-B990-03EE2A9CBD16}|DictionaryDemo\\DictionaryDemo.csproj|d:\\practicedotnet\\day 13\\dictionarydemo\\dictionarydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419BD872-9E21-4C70-B990-03EE2A9CBD16}|DictionaryDemo\\DictionaryDemo.csproj|solutionrelative:dictionarydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419BD872-9E21-4C70-B990-03EE2A9CBD16}|DictionaryDemo\\DictionaryDemo.csproj|d:\\practicedotnet\\day 13\\dictionarydemo\\dictionarydemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419BD872-9E21-4C70-B990-03EE2A9CBD16}|DictionaryDemo\\DictionaryDemo.csproj|solutionrelative:dictionarydemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 13\\DictionaryDemo\\DictionaryDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "DictionaryDemo\\Employee.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 13\\DictionaryDemo\\DictionaryDemo\\Employee.cs",
+              "RelativeToolTip": "DictionaryDemo\\Employee.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwE8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:01:17.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 13\\DictionaryDemo\\DictionaryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DictionaryDemo\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 13\\DictionaryDemo\\DictionaryDemo\\Program.cs",
+              "RelativeToolTip": "DictionaryDemo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:52:11.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

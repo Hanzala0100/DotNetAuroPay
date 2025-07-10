@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 7\\Day7Learnings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5553E7F6-08B7-4B96-83F5-99696974FA9C}|Day7Learnings\\Day7Learnings.csproj|d:\\practicedotnet\\day 7\\day7learnings\\day7learnings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553E7F6-08B7-4B96-83F5-99696974FA9C}|Day7Learnings\\Day7Learnings.csproj|solutionrelative:day7learnings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5553E7F6-08B7-4B96-83F5-99696974FA9C}|Day7Learnings\\Day7Learnings.csproj|d:\\practicedotnet\\day 7\\day7learnings\\day7learnings\\understandnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553E7F6-08B7-4B96-83F5-99696974FA9C}|Day7Learnings\\Day7Learnings.csproj|solutionrelative:day7learnings\\understandnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnderstandNull.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 7\\Day7Learnings\\Day7Learnings\\UnderstandNull.cs",
+              "RelativeDocumentMoniker": "Day7Learnings\\UnderstandNull.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 7\\Day7Learnings\\Day7Learnings\\UnderstandNull.cs",
+              "RelativeToolTip": "Day7Learnings\\UnderstandNull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:08:29.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 7\\Day7Learnings\\Day7Learnings\\Program.cs",
+              "RelativeDocumentMoniker": "Day7Learnings\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 7\\Day7Learnings\\Day7Learnings\\Program.cs",
+              "RelativeToolTip": "Day7Learnings\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwGQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:57:26.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

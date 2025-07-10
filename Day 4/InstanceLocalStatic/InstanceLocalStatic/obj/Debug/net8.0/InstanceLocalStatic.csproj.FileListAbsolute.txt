@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\bin\Debug\net8.0\InstanceLocalStatic.exe
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\bin\Debug\net8.0\InstanceLocalStatic.deps.json
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\bin\Debug\net8.0\InstanceLocalStatic.runtimeconfig.json
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\bin\Debug\net8.0\InstanceLocalStatic.dll
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\bin\Debug\net8.0\InstanceLocalStatic.pdb
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\InstanceLocalStatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\InstanceLocalStatic.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\InstanceLocalStatic.AssemblyInfo.cs
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\InstanceLocalStatic.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\InstanceLocalStatic.dll
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\refint\InstanceLocalStatic.dll
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\InstanceLocalStatic.pdb
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\InstanceLocalStatic.genruntimeconfig.cache
+D:\practiceDotNet\Day 4\InstanceLocalStatic\InstanceLocalStatic\obj\Debug\net8.0\ref\InstanceLocalStatic.dll

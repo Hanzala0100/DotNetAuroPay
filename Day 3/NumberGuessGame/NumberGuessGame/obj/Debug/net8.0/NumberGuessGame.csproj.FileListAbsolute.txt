@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\bin\Debug\net8.0\NumberGuessGame.exe
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\bin\Debug\net8.0\NumberGuessGame.deps.json
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\bin\Debug\net8.0\NumberGuessGame.runtimeconfig.json
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\bin\Debug\net8.0\NumberGuessGame.dll
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\bin\Debug\net8.0\NumberGuessGame.pdb
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\NumberGuessGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\NumberGuessGame.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\NumberGuessGame.AssemblyInfo.cs
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\NumberGuessGame.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\NumberGuessGame.dll
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\refint\NumberGuessGame.dll
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\NumberGuessGame.pdb
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\NumberGuessGame.genruntimeconfig.cache
+D:\practiceDotNet\Day 3\NumberGuessGame\NumberGuessGame\obj\Debug\net8.0\ref\NumberGuessGame.dll

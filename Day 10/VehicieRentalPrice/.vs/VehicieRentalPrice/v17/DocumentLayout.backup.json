@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 10\\VehicieRentalPrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA502-9F51-4D5F-9DDA-C9EA35C966CF}|VehicieRentalPrice\\VehicieRentalPrice.csproj|d:\\practicedotnet\\day 10\\vehicierentalprice\\vehicierentalprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA502-9F51-4D5F-9DDA-C9EA35C966CF}|VehicieRentalPrice\\VehicieRentalPrice.csproj|solutionrelative:vehicierentalprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 10\\VehicieRentalPrice\\VehicieRentalPrice\\Program.cs",
+              "RelativeDocumentMoniker": "VehicieRentalPrice\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 10\\VehicieRentalPrice\\VehicieRentalPrice\\Program.cs",
+              "RelativeToolTip": "VehicieRentalPrice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:53:42.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

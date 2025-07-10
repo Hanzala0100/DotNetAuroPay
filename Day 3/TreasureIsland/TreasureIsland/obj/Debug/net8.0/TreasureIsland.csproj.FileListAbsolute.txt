@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\bin\Debug\net8.0\TreasureIsland.exe
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\bin\Debug\net8.0\TreasureIsland.deps.json
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\bin\Debug\net8.0\TreasureIsland.runtimeconfig.json
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\bin\Debug\net8.0\TreasureIsland.dll
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\bin\Debug\net8.0\TreasureIsland.pdb
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\TreasureIsland.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\TreasureIsland.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\TreasureIsland.AssemblyInfo.cs
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\TreasureIsland.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\TreasureIsland.dll
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\refint\TreasureIsland.dll
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\TreasureIsland.pdb
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\TreasureIsland.genruntimeconfig.cache
+D:\practiceDotNet\Day 3\TreasureIsland\TreasureIsland\obj\Debug\net8.0\ref\TreasureIsland.dll

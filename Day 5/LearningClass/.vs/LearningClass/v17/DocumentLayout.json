@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 5\\LearningClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD7E03-6CFF-4A8C-98D1-F57C38D95667}|LearningClass\\LearningClass.csproj|d:\\practicedotnet\\day 5\\learningclass\\learningclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD7E03-6CFF-4A8C-98D1-F57C38D95667}|LearningClass\\LearningClass.csproj|solutionrelative:learningclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD7E03-6CFF-4A8C-98D1-F57C38D95667}|LearningClass\\LearningClass.csproj|d:\\practicedotnet\\day 5\\learningclass\\learningclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD7E03-6CFF-4A8C-98D1-F57C38D95667}|LearningClass\\LearningClass.csproj|solutionrelative:learningclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 5\\LearningClass\\LearningClass\\Employee.cs",
+              "RelativeDocumentMoniker": "LearningClass\\Employee.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 5\\LearningClass\\LearningClass\\Employee.cs",
+              "RelativeToolTip": "LearningClass\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:54:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 5\\LearningClass\\LearningClass\\Program.cs",
+              "RelativeDocumentMoniker": "LearningClass\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 5\\LearningClass\\LearningClass\\Program.cs",
+              "RelativeToolTip": "LearningClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:35:45.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

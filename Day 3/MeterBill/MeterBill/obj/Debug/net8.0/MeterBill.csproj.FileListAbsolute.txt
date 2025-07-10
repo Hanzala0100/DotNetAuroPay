@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\bin\Debug\net8.0\MeterBill.exe
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\bin\Debug\net8.0\MeterBill.deps.json
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\bin\Debug\net8.0\MeterBill.runtimeconfig.json
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\bin\Debug\net8.0\MeterBill.dll
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\bin\Debug\net8.0\MeterBill.pdb
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\MeterBill.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\MeterBill.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\MeterBill.AssemblyInfo.cs
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\MeterBill.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\MeterBill.dll
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\refint\MeterBill.dll
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\MeterBill.pdb
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\MeterBill.genruntimeconfig.cache
+D:\practiceDotNet\Day 3\MeterBill\MeterBill\obj\Debug\net8.0\ref\MeterBill.dll

@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\bin\Debug\net8.0\CurrencyDenominator.exe
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\bin\Debug\net8.0\CurrencyDenominator.deps.json
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\bin\Debug\net8.0\CurrencyDenominator.runtimeconfig.json
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\bin\Debug\net8.0\CurrencyDenominator.dll
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\bin\Debug\net8.0\CurrencyDenominator.pdb
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\CurrencyDenominator.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\CurrencyDenominator.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\CurrencyDenominator.AssemblyInfo.cs
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\CurrencyDenominator.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\CurrencyDenominator.dll
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\refint\CurrencyDenominator.dll
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\CurrencyDenominator.pdb
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\CurrencyDenominator.genruntimeconfig.cache
+D:\practiceDotNet\Day 3\CurrencyDenominator\CurrencyDenominator\obj\Debug\net8.0\ref\CurrencyDenominator.dll

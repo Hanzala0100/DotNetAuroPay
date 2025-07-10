@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 3\Assignment\Assignment\bin\Debug\net8.0\Assignment.exe
+D:\practiceDotNet\Day 3\Assignment\Assignment\bin\Debug\net8.0\Assignment.deps.json
+D:\practiceDotNet\Day 3\Assignment\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+D:\practiceDotNet\Day 3\Assignment\Assignment\bin\Debug\net8.0\Assignment.dll
+D:\practiceDotNet\Day 3\Assignment\Assignment\bin\Debug\net8.0\Assignment.pdb
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\Assignment.dll
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\Assignment.pdb
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+D:\practiceDotNet\Day 3\Assignment\Assignment\obj\Debug\net8.0\ref\Assignment.dll

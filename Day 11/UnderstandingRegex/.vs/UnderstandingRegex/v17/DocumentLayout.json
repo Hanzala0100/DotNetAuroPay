@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 11\\UnderstandingRegex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38325DE-3581-4133-A3B5-74343112498B}|UnderstandingRegex\\UnderstandingRegex.csproj|d:\\practicedotnet\\day 11\\understandingregex\\understandingregex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38325DE-3581-4133-A3B5-74343112498B}|UnderstandingRegex\\UnderstandingRegex.csproj|solutionrelative:understandingregex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 11\\UnderstandingRegex\\UnderstandingRegex\\Program.cs",
+              "RelativeDocumentMoniker": "UnderstandingRegex\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 11\\UnderstandingRegex\\UnderstandingRegex\\Program.cs",
+              "RelativeToolTip": "UnderstandingRegex\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:14:50.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

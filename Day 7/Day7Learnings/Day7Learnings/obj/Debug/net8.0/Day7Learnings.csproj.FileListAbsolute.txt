@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\bin\Debug\net8.0\Day7Learnings.exe
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\bin\Debug\net8.0\Day7Learnings.deps.json
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\bin\Debug\net8.0\Day7Learnings.runtimeconfig.json
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\bin\Debug\net8.0\Day7Learnings.dll
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\bin\Debug\net8.0\Day7Learnings.pdb
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\Day7Learnings.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\Day7Learnings.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\Day7Learnings.AssemblyInfo.cs
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\Day7Learnings.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\Day7Learnings.dll
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\refint\Day7Learnings.dll
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\Day7Learnings.pdb
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\Day7Learnings.genruntimeconfig.cache
+D:\practiceDotNet\Day 7\Day7Learnings\Day7Learnings\obj\Debug\net8.0\ref\Day7Learnings.dll

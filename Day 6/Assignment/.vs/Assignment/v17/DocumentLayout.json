@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 6\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E679FE0-BA61-4CAB-B836-C3D712D8458C}|Assignment\\Assignment.csproj|d:\\practicedotnet\\day 6\\assignment\\assignment\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E679FE0-BA61-4CAB-B836-C3D712D8458C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E679FE0-BA61-4CAB-B836-C3D712D8458C}|Assignment\\Assignment.csproj|d:\\practicedotnet\\day 6\\assignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E679FE0-BA61-4CAB-B836-C3D712D8458C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E679FE0-BA61-4CAB-B836-C3D712D8458C}|Assignment\\Assignment.csproj|d:\\practicedotnet\\day 6\\assignment\\assignment\\enumquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E679FE0-BA61-4CAB-B836-C3D712D8458C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\enumquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E679FE0-BA61-4CAB-B836-C3D712D8458C}|Assignment\\Assignment.csproj|d:\\practicedotnet\\day 6\\assignment\\assignment\\remaining codes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E679FE0-BA61-4CAB-B836-C3D712D8458C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\remaining codes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 6\\Assignment\\Assignment\\Account.cs",
+              "RelativeDocumentMoniker": "Assignment\\Account.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 6\\Assignment\\Assignment\\Account.cs",
+              "RelativeToolTip": "Assignment\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:14:10.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Remaining codes.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 6\\Assignment\\Assignment\\Remaining codes.cs",
+              "RelativeDocumentMoniker": "Assignment\\Remaining codes.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 6\\Assignment\\Assignment\\Remaining codes.cs",
+              "RelativeToolTip": "Assignment\\Remaining codes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:29:02.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumQuestions.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 6\\Assignment\\Assignment\\EnumQuestions.cs",
+              "RelativeDocumentMoniker": "Assignment\\EnumQuestions.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 6\\Assignment\\Assignment\\EnumQuestions.cs",
+              "RelativeToolTip": "Assignment\\EnumQuestions.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:28:18.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 6\\Assignment\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 6\\Assignment\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:25:59.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

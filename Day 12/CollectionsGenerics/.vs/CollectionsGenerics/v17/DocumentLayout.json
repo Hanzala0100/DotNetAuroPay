@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 12\\CollectionsGenerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F318EBA-7230-428D-94FF-85F43CF564D4}|CollectionsGenerics\\CollectionsGenerics.csproj|d:\\practicedotnet\\day 12\\collectionsgenerics\\collectionsgenerics\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F318EBA-7230-428D-94FF-85F43CF564D4}|CollectionsGenerics\\CollectionsGenerics.csproj|solutionrelative:collectionsgenerics\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F318EBA-7230-428D-94FF-85F43CF564D4}|CollectionsGenerics\\CollectionsGenerics.csproj|d:\\practicedotnet\\day 12\\collectionsgenerics\\collectionsgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F318EBA-7230-428D-94FF-85F43CF564D4}|CollectionsGenerics\\CollectionsGenerics.csproj|solutionrelative:collectionsgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 12\\CollectionsGenerics\\CollectionsGenerics\\Employee.cs",
+              "RelativeDocumentMoniker": "CollectionsGenerics\\Employee.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 12\\CollectionsGenerics\\CollectionsGenerics\\Employee.cs",
+              "RelativeToolTip": "CollectionsGenerics\\Employee.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:09:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 12\\CollectionsGenerics\\CollectionsGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionsGenerics\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 12\\CollectionsGenerics\\CollectionsGenerics\\Program.cs",
+              "RelativeToolTip": "CollectionsGenerics\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:23:17.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

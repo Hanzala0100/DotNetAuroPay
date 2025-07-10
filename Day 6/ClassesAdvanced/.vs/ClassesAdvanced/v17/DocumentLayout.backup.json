@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practiceDotNet\\Day 6\\ClassesAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF70EAC-9925-4CD6-B6BB-C6AF83F87365}|ClassesAdvanced\\ClassesAdvanced.csproj|d:\\practicedotnet\\day 6\\classesadvanced\\classesadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF70EAC-9925-4CD6-B6BB-C6AF83F87365}|ClassesAdvanced\\ClassesAdvanced.csproj|solutionrelative:classesadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156B4302-BD67-46C3-B6FF-39701C919011}|MyClassLibrary\\MyClassLibrary.csproj|d:\\practicedotnet\\day 6\\classesadvanced\\myclasslibrary\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156B4302-BD67-46C3-B6FF-39701C919011}|MyClassLibrary\\MyClassLibrary.csproj|solutionrelative:myclasslibrary\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156B4302-BD67-46C3-B6FF-39701C919011}|MyClassLibrary\\MyClassLibrary.csproj|d:\\practicedotnet\\day 6\\classesadvanced\\myclasslibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156B4302-BD67-46C3-B6FF-39701C919011}|MyClassLibrary\\MyClassLibrary.csproj|solutionrelative:myclasslibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 6\\ClassesAdvanced\\MyClassLibrary\\StudentManager.cs",
+              "RelativeDocumentMoniker": "MyClassLibrary\\StudentManager.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 6\\ClassesAdvanced\\MyClassLibrary\\StudentManager.cs",
+              "RelativeToolTip": "MyClassLibrary\\StudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:11:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 6\\ClassesAdvanced\\ClassesAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesAdvanced\\Program.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 6\\ClassesAdvanced\\ClassesAdvanced\\Program.cs",
+              "RelativeToolTip": "ClassesAdvanced\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:41:25.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\practiceDotNet\\Day 6\\ClassesAdvanced\\MyClassLibrary\\Student.cs",
+              "RelativeDocumentMoniker": "MyClassLibrary\\Student.cs",
+              "ToolTip": "D:\\practiceDotNet\\Day 6\\ClassesAdvanced\\MyClassLibrary\\Student.cs",
+              "RelativeToolTip": "MyClassLibrary\\Student.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:45:38.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

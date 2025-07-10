@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "10 50 39 77 29 1 6 8 "
+    }
+  }
+}

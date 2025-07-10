@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.exe
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.deps.json
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.runtimeconfig.json
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.dll
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.pdb
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.AssemblyInfo.cs
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.dll
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\refint\CommandLineArgs.dll
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.pdb
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.genruntimeconfig.cache
+D:\practiceDotNet\Day 3\CommandLineArgs\CommandLineArgs\obj\Debug\net8.0\ref\CommandLineArgs.dll

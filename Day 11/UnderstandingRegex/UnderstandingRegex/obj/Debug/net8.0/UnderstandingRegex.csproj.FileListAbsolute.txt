@@ -1,0 +1,14 @@
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\bin\Debug\net8.0\UnderstandingRegex.exe
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\bin\Debug\net8.0\UnderstandingRegex.deps.json
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\bin\Debug\net8.0\UnderstandingRegex.runtimeconfig.json
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\bin\Debug\net8.0\UnderstandingRegex.dll
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\bin\Debug\net8.0\UnderstandingRegex.pdb
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\UnderstandingRegex.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\UnderstandingRegex.AssemblyInfoInputs.cache
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\UnderstandingRegex.AssemblyInfo.cs
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\UnderstandingRegex.csproj.CoreCompileInputs.cache
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\UnderstandingRegex.dll
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\refint\UnderstandingRegex.dll
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\UnderstandingRegex.pdb
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\UnderstandingRegex.genruntimeconfig.cache
+D:\practiceDotNet\Day 11\UnderstandingRegex\UnderstandingRegex\obj\Debug\net8.0\ref\UnderstandingRegex.dll
