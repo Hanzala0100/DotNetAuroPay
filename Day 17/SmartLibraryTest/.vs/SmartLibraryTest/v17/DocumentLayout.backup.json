@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Day17\\SmartLibraryTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F4A1B-1246-4242-B8C7-06334AEB5442}|SmartLibraryTest\\SmartLibraryTest.csproj|d:\\training\\day17\\smartlibrarytest\\smartlibrarytest\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F4A1B-1246-4242-B8C7-06334AEB5442}|SmartLibraryTest\\SmartLibraryTest.csproj|solutionrelative:smartlibrarytest\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F4A1B-1246-4242-B8C7-06334AEB5442}|SmartLibraryTest\\SmartLibraryTest.csproj|d:\\training\\day17\\smartlibrarytest\\smartlibrarytest\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F4A1B-1246-4242-B8C7-06334AEB5442}|SmartLibraryTest\\SmartLibraryTest.csproj|solutionrelative:smartlibrarytest\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F4A1B-1246-4242-B8C7-06334AEB5442}|SmartLibraryTest\\SmartLibraryTest.csproj|d:\\training\\day17\\smartlibrarytest\\smartlibrarytest\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F4A1B-1246-4242-B8C7-06334AEB5442}|SmartLibraryTest\\SmartLibraryTest.csproj|solutionrelative:smartlibrarytest\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F4A1B-1246-4242-B8C7-06334AEB5442}|SmartLibraryTest\\SmartLibraryTest.csproj|d:\\training\\day17\\smartlibrarytest\\smartlibrarytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F4A1B-1246-4242-B8C7-06334AEB5442}|SmartLibraryTest\\SmartLibraryTest.csproj|solutionrelative:smartlibrarytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\Day17\\SmartLibraryTest\\SmartLibraryTest\\Program.cs",
+              "RelativeDocumentMoniker": "SmartLibraryTest\\Program.cs",
+              "ToolTip": "D:\\Training\\Day17\\SmartLibraryTest\\SmartLibraryTest\\Program.cs",
+              "RelativeToolTip": "SmartLibraryTest\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwJsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:03:20.55Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\Training\\Day17\\SmartLibraryTest\\SmartLibraryTest\\Library.cs",
+              "RelativeDocumentMoniker": "SmartLibraryTest\\Library.cs",
+              "ToolTip": "D:\\Training\\Day17\\SmartLibraryTest\\SmartLibraryTest\\Library.cs",
+              "RelativeToolTip": "SmartLibraryTest\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:04:13.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Training\\Day17\\SmartLibraryTest\\SmartLibraryTest\\Member.cs",
+              "RelativeDocumentMoniker": "SmartLibraryTest\\Member.cs",
+              "ToolTip": "D:\\Training\\Day17\\SmartLibraryTest\\SmartLibraryTest\\Member.cs",
+              "RelativeToolTip": "SmartLibraryTest\\Member.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwE4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:04:00.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Training\\Day17\\SmartLibraryTest\\SmartLibraryTest\\Book.cs",
+              "RelativeDocumentMoniker": "SmartLibraryTest\\Book.cs",
+              "ToolTip": "D:\\Training\\Day17\\SmartLibraryTest\\SmartLibraryTest\\Book.cs",
+              "RelativeToolTip": "SmartLibraryTest\\Book.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:03:53.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

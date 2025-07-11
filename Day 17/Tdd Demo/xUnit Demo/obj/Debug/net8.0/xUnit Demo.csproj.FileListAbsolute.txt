@@ -1,0 +1,105 @@
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\CoverletSourceRootsMapping_xUnit Demo
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\testhost.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Tdd Demo.deps.json
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Tdd Demo.runtimeconfig.json
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Tdd Demo.exe
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\testhost.exe
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xUnit Demo.deps.json
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xUnit Demo.runtimeconfig.json
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xUnit Demo.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xUnit Demo.pdb
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xunit.assert.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xunit.core.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Tdd Demo.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\bin\Debug\net8.0\Tdd Demo.pdb
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.csproj.AssemblyReference.cache
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.AssemblyInfoInputs.cache
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.AssemblyInfo.cs
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.csproj.CoreCompileInputs.cache
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.csproj.Up2Date
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\refint\xUnit Demo.dll
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.pdb
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\xUnit Demo.genruntimeconfig.cache
+D:\Training\Day17\Tdd Demo\xUnit Demo\obj\Debug\net8.0\ref\xUnit Demo.dll

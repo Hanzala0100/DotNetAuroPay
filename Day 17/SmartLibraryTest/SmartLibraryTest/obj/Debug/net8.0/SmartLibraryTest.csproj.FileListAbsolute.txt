@@ -1,0 +1,14 @@
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\bin\Debug\net8.0\SmartLibraryTest.exe
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\bin\Debug\net8.0\SmartLibraryTest.deps.json
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\bin\Debug\net8.0\SmartLibraryTest.runtimeconfig.json
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\bin\Debug\net8.0\SmartLibraryTest.dll
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\bin\Debug\net8.0\SmartLibraryTest.pdb
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\SmartLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\SmartLibraryTest.AssemblyInfoInputs.cache
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\SmartLibraryTest.AssemblyInfo.cs
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\SmartLibraryTest.csproj.CoreCompileInputs.cache
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\SmartLibraryTest.dll
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\refint\SmartLibraryTest.dll
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\SmartLibraryTest.pdb
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\SmartLibraryTest.genruntimeconfig.cache
+D:\Training\Day17\SmartLibraryTest\SmartLibraryTest\obj\Debug\net8.0\ref\SmartLibraryTest.dll

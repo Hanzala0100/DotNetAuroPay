@@ -1,0 +1,14 @@
+D:\Training\Day15\EmployeeSort\EmployeeSort\bin\Debug\net8.0\EmployeeSort.exe
+D:\Training\Day15\EmployeeSort\EmployeeSort\bin\Debug\net8.0\EmployeeSort.deps.json
+D:\Training\Day15\EmployeeSort\EmployeeSort\bin\Debug\net8.0\EmployeeSort.runtimeconfig.json
+D:\Training\Day15\EmployeeSort\EmployeeSort\bin\Debug\net8.0\EmployeeSort.dll
+D:\Training\Day15\EmployeeSort\EmployeeSort\bin\Debug\net8.0\EmployeeSort.pdb
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\EmployeeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\EmployeeSort.AssemblyInfoInputs.cache
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\EmployeeSort.AssemblyInfo.cs
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\EmployeeSort.csproj.CoreCompileInputs.cache
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\EmployeeSort.dll
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\refint\EmployeeSort.dll
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\EmployeeSort.pdb
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\EmployeeSort.genruntimeconfig.cache
+D:\Training\Day15\EmployeeSort\EmployeeSort\obj\Debug\net8.0\ref\EmployeeSort.dll

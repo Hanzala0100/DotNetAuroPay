@@ -1,0 +1,14 @@
+D:\Training\Day17\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.exe
+D:\Training\Day17\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.deps.json
+D:\Training\Day17\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.runtimeconfig.json
+D:\Training\Day17\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.dll
+D:\Training\Day17\AsyncAwait\AsyncAwait\bin\Debug\net8.0\AsyncAwait.pdb
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfoInputs.cache
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfo.cs
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.dll
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\refint\AsyncAwait.dll
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.pdb
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\AsyncAwait.genruntimeconfig.cache
+D:\Training\Day17\AsyncAwait\AsyncAwait\obj\Debug\net8.0\ref\AsyncAwait.dll

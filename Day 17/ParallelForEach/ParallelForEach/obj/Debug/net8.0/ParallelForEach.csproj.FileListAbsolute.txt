@@ -1,0 +1,14 @@
+D:\Training\Day17\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.exe
+D:\Training\Day17\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.deps.json
+D:\Training\Day17\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.runtimeconfig.json
+D:\Training\Day17\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.dll
+D:\Training\Day17\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.pdb
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.AssemblyInfoInputs.cache
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.AssemblyInfo.cs
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.csproj.CoreCompileInputs.cache
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.dll
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\refint\ParallelForEach.dll
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.pdb
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.genruntimeconfig.cache
+D:\Training\Day17\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ref\ParallelForEach.dll

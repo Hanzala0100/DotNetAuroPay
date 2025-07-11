@@ -1,0 +1,14 @@
+D:\Training\Day16\DelegateNotification\DelegateNotification\bin\Debug\net8.0\DelegateNotification.exe
+D:\Training\Day16\DelegateNotification\DelegateNotification\bin\Debug\net8.0\DelegateNotification.deps.json
+D:\Training\Day16\DelegateNotification\DelegateNotification\bin\Debug\net8.0\DelegateNotification.runtimeconfig.json
+D:\Training\Day16\DelegateNotification\DelegateNotification\bin\Debug\net8.0\DelegateNotification.dll
+D:\Training\Day16\DelegateNotification\DelegateNotification\bin\Debug\net8.0\DelegateNotification.pdb
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\DelegateNotification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\DelegateNotification.AssemblyInfoInputs.cache
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\DelegateNotification.AssemblyInfo.cs
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\DelegateNotification.csproj.CoreCompileInputs.cache
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\DelegateNotification.dll
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\refint\DelegateNotification.dll
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\DelegateNotification.pdb
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\DelegateNotification.genruntimeconfig.cache
+D:\Training\Day16\DelegateNotification\DelegateNotification\obj\Debug\net8.0\ref\DelegateNotification.dll

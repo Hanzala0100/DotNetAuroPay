@@ -1,0 +1,14 @@
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\bin\Debug\net8.0\PubSubDelegate.exe
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\bin\Debug\net8.0\PubSubDelegate.deps.json
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\bin\Debug\net8.0\PubSubDelegate.runtimeconfig.json
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\bin\Debug\net8.0\PubSubDelegate.dll
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\bin\Debug\net8.0\PubSubDelegate.pdb
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\PubSubDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\PubSubDelegate.AssemblyInfoInputs.cache
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\PubSubDelegate.AssemblyInfo.cs
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\PubSubDelegate.csproj.CoreCompileInputs.cache
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\PubSubDelegate.dll
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\refint\PubSubDelegate.dll
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\PubSubDelegate.pdb
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\PubSubDelegate.genruntimeconfig.cache
+D:\Training\Day16\PubSubDelegate\PubSubDelegate\obj\Debug\net8.0\ref\PubSubDelegate.dll

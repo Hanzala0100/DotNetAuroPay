@@ -1,0 +1,14 @@
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\bin\Debug\net8.0\DelegateFuncEcommerce.exe
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\bin\Debug\net8.0\DelegateFuncEcommerce.deps.json
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\bin\Debug\net8.0\DelegateFuncEcommerce.runtimeconfig.json
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\bin\Debug\net8.0\DelegateFuncEcommerce.dll
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\bin\Debug\net8.0\DelegateFuncEcommerce.pdb
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\DelegateFuncEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\DelegateFuncEcommerce.AssemblyInfoInputs.cache
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\DelegateFuncEcommerce.AssemblyInfo.cs
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\DelegateFuncEcommerce.csproj.CoreCompileInputs.cache
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\DelegateFuncEcommerce.dll
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\refint\DelegateFuncEcommerce.dll
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\DelegateFuncEcommerce.pdb
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\DelegateFuncEcommerce.genruntimeconfig.cache
+D:\Training\Day16\DelegateFuncEcommerce\DelegateFuncEcommerce\obj\Debug\net8.0\ref\DelegateFuncEcommerce.dll
